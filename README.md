@@ -13,10 +13,12 @@
 
 Python uses **indentation (spaces)** to define code blocks — not curly braces `{}` like in C or Java.
 
+```
 python
 # Python syntax example
 for i in range(3):
     print("Hello, Python!")
+```
 
 
 🧮 2. Variables
