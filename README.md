@@ -5,8 +5,6 @@
 - Variables  
 - Data Types  
 - Practice Program  
-- How to Upload to GitHub  
-
 
 
 🧩 1. Python Syntax
