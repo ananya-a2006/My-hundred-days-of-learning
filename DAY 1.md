@@ -4,7 +4,6 @@
 - Python Syntax  
 - Variables  
 - Data Types  
-- Practice Program  
 
 
 🧩 1. Python Syntax
