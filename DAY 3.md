@@ -4,7 +4,6 @@ Topics Covered:
 - Tuples – Definition & Immutability  
 - Sets – Unique Elements & Operations  
 - Dictionaries – Key–Value Pairs  
-- Practice Programs  
 
 🎯 1. Tuples
 
