@@ -43,3 +43,13 @@ Files are opened using the `open()` function.
 🔹 Using `with open()` – Best Practice
 - Automatically closes the file after use.
 - Recommended for safer file handling.
+
+🧠 Summary
+
+| Concept | Description |
+|----------|-------------|
+| open() | Opens a file |
+| read() / write() | Reads or writes data |
+| close() | Manually closes the file |
+| with open() | Automatically closes the file |
+| Modes | 'r', 'w', 'a', 'r+' |
