@@ -6,7 +6,7 @@
 - `math` Module  
 - `random` Module  
 - `datetime` Module  
-- Practice (HackerRank-style tasks)
+
 
 📘 What is a Module?
 
